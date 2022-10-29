@@ -5,9 +5,17 @@ I have used the panel for the dashboard.So you can  go to Panel website and foll
 Basiclly go to your project file and run terminal;
 
 > python 3 -m venv ./
+
+
 > source bin/activate
+
+
 > pip3 install hvplot jupyterlab
+
+
 > deactivate
+
+
 > pip3 install panel
 
 
